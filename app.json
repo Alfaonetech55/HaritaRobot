@@ -46,7 +46,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Eviral"
+         "value": "Alfaonetech55"
       },
       "STRING_SESSION": {
          "description": "Your Telethon String Session. Create it by repl.it.",
@@ -86,6 +86,6 @@
       "manager",
       "Miley"
    ],
-   "name": "kanimangalam",
+   "name": "Alfaonetech55",
    "repository": "https://github.com/alfaonetech55/HaritaRobot"
 }
